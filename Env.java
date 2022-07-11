@@ -1,4 +1,4 @@
-package net.joojn.util;
+package com.joojn.utils;
 
 import com.google.common.collect.Iterables;
 import net.joojn.minecraft.EventListener;
