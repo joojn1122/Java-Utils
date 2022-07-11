@@ -1,4 +1,4 @@
-package net.joojn.util;
+package com.joojn.utils;
 
 import org.objectweb.asm.Opcodes;
 import org.objectweb.asm.Type;
