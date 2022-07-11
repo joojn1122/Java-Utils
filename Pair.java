@@ -1,4 +1,4 @@
-package net.joojn.util;
+package com.joojn.utils;
 
 import java.util.Objects;
 
