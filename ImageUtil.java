@@ -1,4 +1,4 @@
-package com.joojn;
+package com.joojn.utils;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
